@@ -56,7 +56,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.0.4)
+    concurrent-ruby (1.0.5)
     debug_inspector (0.0.2)
     devise (4.2.0)
       bcrypt (~> 3.0)
@@ -163,8 +163,8 @@ GEM
     sdoc (0.4.2)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    shoulda-matchers (2.8.0)
-      activesupport (>= 3.0.0)
+    shoulda-matchers (3.1.1)
+      activesupport (>= 4.0.0)
     spring (2.0.1)
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
@@ -183,7 +183,7 @@ GEM
     tilt (2.0.6)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.4)
+    uglifier (3.1.1)
       execjs (>= 0.3.0, < 3)
     warden (1.2.7)
       rack (>= 1.0)
